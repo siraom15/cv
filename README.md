@@ -56,24 +56,27 @@ Jan 2023 - Jul 2023
 - Tools: Docker, Nginx, Vercel
 - Testing: Cypress
 - Agile Development
-- Softskills: Communication, Problem-solving, Teamwork,Patience
+- Softskills: Communication, Problem-solving, Teamwork, Patience
 
 ## Projects
 
-### Booking system website
+### Appointment website
 
-Designed and developed a Booking system website using Vue.js, featuring product listings, shopping cart functionality, and user authentication.
+Designed and developed a Appointment system website - 3rd year integrated project by using vue.js, spring boot, mysql, docker and nginx. featuring appointment listings, appointment attachment, and user authentication etc.
 
-- Led a team of three developers and coordinated project milestones.
-- Integrated with a payment gateway for secure transactions.
-- Achieved a 20% increase in online sales within the first quarter.
+- Led a team of three student and coordinated project milestones.
 
-### Natural Language Processing Chatbot
+### Arsa prompt Line Chatbot
 
-Created a chatbot using Python and the NLTK library, capable of answering user queries and providing information on a wide range of topics.
+Created and developed a chatbot for volunteer applications and asking for help in the COVID-19 situation, check the covid status. by using Line OA, Express.js, Pugjs and Firebase.
 
-- Implemented sentiment analysis to gauge user sentiment and tailor responses accordingly.
-- Achieved an accuracy rate of 85% in responding to user queries.
+- Github: [Arsa prompt](https://github.com/AloneSpace/arsa-prompt-offical)
+
+### Spy Fall
+
+Created and developed a game of Spyfall is made up of several short rounds. In each round the players find themselves in a certain location with a specific role assigned to each player. One player is always a spy who doesn't know where they are. by using Vite.js, Express.Js, Socket.IO, i18n
+
+- Github: [Spy Fall Game](https://github.com/siraom15/spy-fall)
 
 ## Certifications
 
