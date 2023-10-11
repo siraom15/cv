@@ -62,7 +62,7 @@ Jan 2023 - Jul 2023
 
 ### Booking system website
 
-Designed and developed a Booking system website using React.js, featuring product listings, shopping cart functionality, and user authentication.
+Designed and developed a Booking system website using Vue.js, featuring product listings, shopping cart functionality, and user authentication.
 
 - Led a team of three developers and coordinated project milestones.
 - Integrated with a payment gateway for secure transactions.
@@ -74,11 +74,6 @@ Created a chatbot using Python and the NLTK library, capable of answering user q
 
 - Implemented sentiment analysis to gauge user sentiment and tailor responses accordingly.
 - Achieved an accuracy rate of 85% in responding to user queries.
-
-## Awards and Honors
-
-- Outstanding Graduate Student Award (Techtopia University) - 2021
-- Dean's List (University of Techville) - 2017-2019
 
 ## Certifications
 
