@@ -80,8 +80,7 @@ Created and developed a game of Spyfall is made up of several short rounds. In e
 
 ## Certifications
 
-- AWS Certified Solutions Architect - Associate
-- Certified ScrumMaster (CSM)
+- None
 
 ## Languages
 
@@ -90,6 +89,5 @@ Created and developed a game of Spyfall is made up of several short rounds. In e
 
 ## Interests
 
-- Vidio Games
+- Video Games
 - Photography
-- Open-source contributions
