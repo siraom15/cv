@@ -1,7 +1,6 @@
 # Siriwat Jaiyungyuen
 
 [Email: siriwatjaiyungyuen@gmail.com](mailto:siriwatjaiyungyuen@gmail.com)
-[Phone: (+66) 85-110-4511](tel:+66851104511)
 [LinkedIn](https://www.linkedin.com/in/siriwat-j/)
 [GitHub](https://github.com/siraom15)
 [Personal Website](https://siraom15.github.io/)
